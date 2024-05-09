@@ -1,4 +1,4 @@
-# Pricing worker: A powerful worker to scrape data in website if it prevent
+# Selenium with VPN: A powerful worker to scrape data in website with extension VPN in chrome
 
 ## 1. What is selenium-selenium-with-vpn-extension-headless?
 - pricing-worker is a stock crawler written by Python.
