@@ -213,4 +213,4 @@ Step 3: View logs of container
     + `crawled_company.csv`: csv file are crawled from ssi webpage (we crawl data and then save file). (function: `save_crawled_company_csv`)
     + `crawled_stocks.csv`: stock data taken from `crawled_company.csv`, then calculate statistical indicators and save.
     + `top_stock.csv`: list of stock code which Anfin supports for viewing, purchasing
-    + `anfin_stock.csv`: list of stock code which are used for news crawling
+    + `anfin_stock.csv`: list of stock code which are used for news crawling# selenium-selenium-with-vpn-extension-headless
