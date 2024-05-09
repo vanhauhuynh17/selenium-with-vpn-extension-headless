@@ -39,5 +39,7 @@ Step 6. Check ouput:
 Example: ip_address:  92.119.179.10
 
 ## 3. Options:
-MY_IP: my ip where you find in https://whatismyipaddress.com/
-HEADLESS: false open ui, if true if you want to run head to deploy to server
+
+
+    MY_IP: my ip where you find in https://whatismyipaddress.com/
+    HEADLESS: false open ui, if true if you want to run head to deploy to server
